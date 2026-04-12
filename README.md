@@ -1,19 +1,19 @@
-# 📣 About Me:
+## 📣 About Me
 Data Scientist | Machine Learning Engineer | Real-Time Data Systems
 
-🔭 I’m currently seeking opportunities in Machine Learning and Data Science  
+🔭 I’m currently seeking opportunities in Data Science  
 👯 I’m open to collaborating on machine learning and data engineering projects  
-📫 How to reach me: lauren971012@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: ...
+📫 How to reach me: lauren971012@gmail.com  
+😄 Pronouns: She/Her  
+⚡ Fun fact: I recently started running to stay healthy and clear my mind  
 
-Tech Stack
+## 👩‍💻 Tech Stack
+**Languages:** Python, SQL  
+**Machine Learning:** TensorFlow, PyTorch, Scikit-learn  
+**Data Engineering:** Apache Kafka, Apache Spark, Hadoop  
+**Databases:** MySQL, Cassandra  
+**Tools:** Docker
 
-Languages: Python, SQL
-Machine Learning: TensorFlow, PyTorch, Scikit-learn
-Data Engineering: Apache Kafka, Apache Spark, Hadoop
-Databases: MySQL, Cassandra
-Tools: Docker, Git
 <!--
 **eunsu1012/eunsu1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
