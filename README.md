@@ -15,9 +15,12 @@
 - **SQL Data Analysis** (SQL, Data Processing, Query Optimization)  
 
 ## 📚 Research  
-- **Deepfake Detection using CNN-based Models** \ (EfficientNetB4, VGG19, Ensemble Learning, Image Classification) — **AMLDS 2025**
-- **Comparative Study of Machine Learning-Based Sentiment Analysis** \ (ML/DL Models: SVM, Naïve Bayes, CNN, LSTM; NLP Techniques) - **JDAIP 2025**
-- **Aspect-Based Sentiment Analysis (ABSA)** \ (Python, NLP, Deep Learning, Text Classification) — **Master's Thesis**  
+- **Deepfake Detection using CNN-based Models**
+  (EfficientNetB4, VGG19, Ensemble Learning, Image Classification) — **AMLDS 2025**
+- **Comparative Study of Machine Learning-Based Sentiment Analysis**
+  (ML/DL Models: SVM, Naïve Bayes, CNN, LSTM; NLP Techniques) - **JDAIP 2025**
+- **Aspect-Based Sentiment Analysis (ABSA)**
+  (Python, NLP, Deep Learning, Text Classification) — **Master's Thesis**  
 
 ## 👩‍💻 Tech Stack
 - **Languages:** Python, SQL  
